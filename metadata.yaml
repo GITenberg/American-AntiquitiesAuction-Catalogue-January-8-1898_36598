@@ -1,0 +1,26 @@
+_repo: American-AntiquitiesAuction-Catalogue-January-8-1898_36598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norman, William B.
+    alias: Norman, Wm. B.
+    gutenberg_agent_id: '37607'
+    url: http://www.gutenberg.org/2009/agents/37607
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Antiquities -- Catalogs'
+- !lcc 'E011'
+- !lcsh 'Antiques -- Catalogs'
+title: American Antiquities. Auction Catalogue, January 8, 1898
+url: http://www.gutenberg.org/ebooks/36598
